@@ -26,4 +26,4 @@ Multiplying all those dimensions by 6 to remove fractions, we get the following.
   <dt>Symbol height</dt> <dd>27–33 units</dd>
 </dl>
 
-The JIS symbols in this collection will be designed to something like these (very approximate) dimensions.
+The JIS symbols in this collection will be designed to something like these (very approximate) dimensions. In particular, for ease of manipulation, the margin guides in JIS/template.svg actually outline an area that’s 36 units square, not 33. However, these guides should not be taken too strictly; the Japanese symbols are quite variable in size.

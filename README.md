@@ -29,3 +29,5 @@ Multiplying all those dimensions by 6 to remove fractions, we get the following.
 </dl>
 
 The JIS symbols in this collection will be designed to something like these (very approximate) dimensions. In particular, for ease of manipulation, the margin guides in JIS/template.svg actually outline an area that’s 36 units square, not 33. However, these guides should not be taken too strictly; the Japanese symbols are quite variable in size.
+
+Also, if we were to make our symbols the same size as the ones in the printed reference pattern, then their default rendering in HTML would be far too small. So we are drawing our symbols at triple size (28.5 by 22 pixels) for ease of Web rendering; of course, it is easy enough to scale them to other sizes as desired.

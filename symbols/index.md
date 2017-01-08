@@ -4,8 +4,8 @@ Blank cells indicate symbols that will be included but are not yet.
 
 | Description                             | Filename             | Image                                                   |
 |:----------------------------------------|:---------------------|:--------------------------------------------------------|
-| knit                                    |                      |                                                         |
-| purl                                    |                      |                                                         |
+| knit                                    | knit.svg             | ![knit](../JIS/knit.svg)                                |
+| purl                                    | purl.svg             | ![purl](../JIS/purl.svg)                                |
 | yarn over                               |                      |                                                         |
 | decrease left (ssk)                     | decreaseleft.svg     | ![decrease left](../JIS/decreaseleft.svg)               |
 | decrease left, 2 cells                  | decreaseleft.2w.svg  | ![decrease left, 2 cells](../JIS/decreaseleft.2w.svg)   |

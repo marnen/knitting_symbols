@@ -87,7 +87,6 @@
         <dc:title></dc:title>
         <cc:license
            rdf:resource="https://opensource.org/licenses/MIT" />
-        <dc:description>Template for symbols 2 cells wide</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>

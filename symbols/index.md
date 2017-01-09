@@ -43,3 +43,14 @@ I welcome suggestions on nomenclature!
 | 2over2left-purl.svg  | ![2 over 2 left, purl](../JIS/2over2left-purl.svg)   |
 | 2over2right.svg      | ![2 over 2 right](../JIS/2over2right.svg)            |
 | 2over2right-purl.svg | ![2 over 2 right, purl](../JIS/2over2right-purl.svg) |
+
+## Templates/blanks
+
+These are meant as templates on which future stitch symbols can be drawn, but they can also be used for blank stitch boxes in charts.
+
+| Filename        | Image                               |  |
+|:----------------|:------------------------------------|:-|
+| template.svg    | ![single cell](../JIS/template.svg) |  |
+| template.2w.svg | ![2 cells](../JIS/template.2w.svg)  |  |
+| template.3w.svg | ![3 cells](../JIS/template.3w.svg)  |  |
+| template.4w.svg | ![4 cells](../JIS/template.4w.svg)  |  |

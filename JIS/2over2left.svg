@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6886034"
-     inkscape:cx="61.163935"
+     inkscape:cx="46.197898"
      inkscape:cy="10.149219"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -96,10 +96,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://opensource.org/licenses/MIT" />
-        <dc:description></dc:description>
+        <dc:description />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(0,-1045.0288)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 9.500001,1045.0288 0,7.3333"
        id="path9827"
        inkscape:connector-curvature="0" />

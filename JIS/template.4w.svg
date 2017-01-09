@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.269006"
-     inkscape:cx="110.62452"
-     inkscape:cy="18.177388"
+     inkscape:zoom="13.701754"
+     inkscape:cx="46.417414"
+     inkscape:cy="-12.475621"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://opensource.org/licenses/MIT" />
         <dc:description>Template for symbols 4 cells wide</dc:description>
@@ -108,7 +108,7 @@
      id="layer1"
      transform="translate(0,-1045.0288)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 9.500001,1045.0288 0,7.3333"
        id="path9827"
        inkscape:connector-curvature="0" />

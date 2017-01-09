@@ -8,7 +8,7 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 |:----------------------------------------|:---------------------|:--------------------------------------------------------|
 | knit                                    | knit.svg             | ![knit](../JIS/knit.svg)                                |
 | purl                                    | purl.svg             | ![purl](../JIS/purl.svg)                                |
-| yarn over                               |                      |                                                         |
+| yarn over                               | yarnover.svg         | ![yarn over](../JIS/yarnover.svg)                       |
 | decrease left (ssk)                     | decreaseleft.svg     | ![decrease left](../JIS/decreaseleft.svg)               |
 | decrease left, 2 cells                  | decreaseleft.2w.svg  | ![decrease left, 2 cells](../JIS/decreaseleft.2w.svg)   |
 | decrease right (k2tog)                  | decreaseright.svg    | ![decrease right](../JIS/decreaseright.svg)             |

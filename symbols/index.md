@@ -2,32 +2,34 @@
 
 Blank cells indicate symbols that will be included but are not yet.
 
-| Description                             | Filename     | Image                            |
-|:----------------------------------------|:-------------|:---------------------------------|
-| knit                                    |              |                                  |
-| purl                                    |              |                                  |
-| yarn over                               |              |                                  |
-| decrease left (ssk)                     | ssk.svg      | ![ssk](../JIS/ssk.svg)           |
-| decrease left, 2 cells                  | ssk-wide.svg | ![ssk-wide](../JIS/ssk-wide.svg) |
-| decrease left (k2tog)                   | k2tog.svg    | ![k2tog](../JIS/k2tog.svg)       |
-| decrease left, 2 cells                  | ssk-wide.svg | ![ssk-wide](../JIS/ssk-wide.svg) |
-| 3 to 1 (double decrease), center (skpo) |              |                                  |
-| 3 to 1 left                             |              |                                  |
-| 3 to 1 right                            |              |                                  |
-| increase right                          |              |                                  |
-| increase left                           |              |                                  |
-| increase 1 to 3                         |              |                                  |
-| cross right to left                     |              |                                  |
-| cross left to right                     |              |                                  |
-| pass right through left                 |              |                                  |
-| pass left through right                 |              |                                  |
-| slip with yarn in back (2 rows high)    |              |                                  |
-| slip with yarn in front (2 rows high)   |              |                                  |
-| dip stitch                              |              |                                  |
-| twisted dip stitch                      |              |                                  |
-| knit through back loop                  |              |                                  |
-| twisted yarn over                       |              |                                  |
-| pass stitch over                        |              |                                  |
+Note: the file naming scheme is perhaps a bit strange, because the files are named in the same format as characters in OpenType fonts. Hopefully this will facilitate the eventual production of a font with these symbols.
+
+| Description                             | Filename             | Image                                                   |
+|:----------------------------------------|:---------------------|:--------------------------------------------------------|
+| knit                                    | knit.svg             | ![knit](../JIS/knit.svg)                                |
+| purl                                    | purl.svg             | ![purl](../JIS/purl.svg)                                |
+| yarn over                               |                      |                                                         |
+| decrease left (ssk)                     | decreaseleft.svg     | ![decrease left](../JIS/decreaseleft.svg)               |
+| decrease left, 2 cells                  | decreaseleft.2w.svg  | ![decrease left, 2 cells](../JIS/decreaseleft.2w.svg)   |
+| decrease right (k2tog)                  | decreaseright.svg    | ![decrease right](../JIS/decreaseright.svg)             |
+| decrease right, 2 cells                 | decreaseright.2w.svg | ![decrease right, 2 cells](../JIS/decreaseright.2w.svg) |
+| 3 to 1 (double decrease), center (skpo) |                      |                                                         |
+| 3 to 1 left                             |                      |                                                         |
+| 3 to 1 right                            |                      |                                                         |
+| increase right                          |                      |                                                         |
+| increase left                           |                      |                                                         |
+| increase 1 to 3                         |                      |                                                         |
+| cross right to left                     |                      |                                                         |
+| cross left to right                     |                      |                                                         |
+| pass right through left                 |                      |                                                         |
+| pass left through right                 |                      |                                                         |
+| slip with yarn in back (2 rows high)    |                      |                                                         |
+| slip with yarn in front (2 rows high)   |                      |                                                         |
+| dip stitch                              |                      |                                                         |
+| twisted dip stitch                      |                      |                                                         |
+| knit through back loop                  |                      |                                                         |
+| twisted yarn over                       |                      |                                                         |
+| pass stitch over                        |                      |                                                         |
 
 ## Cables
 

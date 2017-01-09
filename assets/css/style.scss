@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[src$=".svg"], .bordered {
+  border: 0.5px solid #cccccc;
+}

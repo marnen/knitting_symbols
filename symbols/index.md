@@ -23,8 +23,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | increase 1 to 3                           | 1to3.svg             | ![1 to 3](../JIS/1to3.svg)                              |
 | cross right to left                       | crossleft.svg        | ![cross left](../JIS/crossleft.svg)                     |
 | cross left to right                       | crossright.svg       | ![cross right](../JIS/crossright.svg)                   |
-| pass right through left                   |                      |                                                         |
-| pass left through right                   |                      |                                                         |
+| pass right through left                   | passright.svg        | ![pass right](../JIS/passright.svg)                     |
+| pass left through right                   | passleft.svg         | ![pass left](../JIS/passleft.svg)                       |
 | slip with yarn in back (2 rows high)      |                      |                                                         |
 | slip with yarn in front (2 rows high)     |                      |                                                         |
 | dip stitch                                |                      |                                                         |

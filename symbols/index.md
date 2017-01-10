@@ -50,9 +50,10 @@ I welcome suggestions on nomenclature!
 
 These are meant as templates on which future stitch symbols can be drawn, but they can also be used for blank stitch boxes in charts.
 
-| Filename        | Image                               |  |
-|:----------------|:------------------------------------|:-|
-| template.svg    | ![single cell](../JIS/template.svg) |  |
-| template.2w.svg | ![2 cells](../JIS/template.2w.svg)  |  |
-| template.3w.svg | ![3 cells](../JIS/template.3w.svg)  |  |
-| template.4w.svg | ![4 cells](../JIS/template.4w.svg)  |  |
+| Filename        | Image                               |
+|:----------------|:------------------------------------|
+| template.svg    | ![single cell](../JIS/template.svg) |
+| template.2w.svg | ![2 cells](../JIS/template.2w.svg)  |
+| template.3w.svg | ![3 cells](../JIS/template.3w.svg)  |
+| template.4w.svg | ![4 cells](../JIS/template.4w.svg)  |
+| template.2h.svg | ![2 rows](../JIS/template.2h.svg)   |

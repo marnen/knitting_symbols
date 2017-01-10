@@ -18,9 +18,9 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | 3 to 1 right                              | 3to1right.svg        | ![3 to 1 right](../JIS/3to1right.svg)                   |
 | slant left                                | slantleft.svg        | ![slant left](../JIS/slantleft.svg)                     |
 | slant right                               | slantright.svg       | ![slant right](../JIS/slantright.svg)                   |
-| increase right                            |                      |                                                         |
-| increase left                             |                      |                                                         |
-| increase 1 to 3                           |                      |                                                         |
+| increase right                            | increaseright.svg    | ![increase right](../JIS/increaseright.svg)             |
+| increase left                             | increaseleft.svg     | ![increase left](../JIS/increaseleft.svg)               |
+| increase 1 to 3                           | 1to3.svg             | ![1 to 3](../JIS/1to3.svg)                              |
 | cross right to left                       |                      |                                                         |
 | cross left to right                       |                      |                                                         |
 | pass right through left                   |                      |                                                         |

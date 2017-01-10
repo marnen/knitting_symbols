@@ -34,6 +34,7 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | knit through back loop                    |                      |                                                         |
 | twisted yarn over                         |                      |                                                         |
 | pass stitch over                          |                      |                                                         |
+| no stitch                                 | nostitch.svg         | ![no stitch](../JIS/nostitch.svg)                       |
 
 ## Cables
 

@@ -16,6 +16,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | 3 to 1 (double decrease), center (skpo) |                      |                                                         |
 | 3 to 1 left                             |                      |                                                         |
 | 3 to 1 right                            |                      |                                                         |
+| slant left                              | slantleft.svg        | ![slant left](../JIS/slantleft.svg)                     |
+| slant right                             | slantright.svg       | ![slant right](../JIS/slantright.svg)                   |
 | increase right                          |                      |                                                         |
 | increase left                           |                      |                                                         |
 | increase 1 to 3                         |                      |                                                         |

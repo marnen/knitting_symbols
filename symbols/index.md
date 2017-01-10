@@ -21,8 +21,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | increase right                            | increaseright.svg    | ![increase right](../JIS/increaseright.svg)             |
 | increase left                             | increaseleft.svg     | ![increase left](../JIS/increaseleft.svg)               |
 | increase 1 to 3                           | 1to3.svg             | ![1 to 3](../JIS/1to3.svg)                              |
-| cross right to left                       |                      |                                                         |
-| cross left to right                       |                      |                                                         |
+| cross right to left                       | crossleft.svg        | ![cross left](../JIS/crossleft.svg)                     |
+| cross left to right                       | crossright.svg       | ![cross right](../JIS/crossright.svg)                   |
 | pass right through left                   |                      |                                                         |
 | pass left through right                   |                      |                                                         |
 | slip with yarn in back (2 rows high)      |                      |                                                         |

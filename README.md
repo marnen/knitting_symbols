@@ -1,6 +1,8 @@
 # knitting_symbols
 SVG images of standard stitch symbols used on knitting charts. The primary goal at the moment is to provide SVG images for Japanese kniting symbols, as defined in the JIS L0201 standard and commonly used in Japanese publications. However, I hope to eventually have symbols for other common systems, and contributions are aways welcome!
 
+These images are made available under the [MIT License](https://opensource.org/licenses/MIT). Although the terms of the license do not require it, I would be delighted if you credit me (Marnen Laibow-Koser, marnen at marnen dot org) or provide a link to http://www.github.com/marnen/knitting_symbols if you use these images.
+
 [Current list of symbols](https://marnen.github.io/knitting_symbols/symbols)
 
 ## Dimensions

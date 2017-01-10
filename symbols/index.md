@@ -25,8 +25,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | cross left to right                       | crossright.svg       | ![cross right](../JIS/crossright.svg)                   |
 | pass right through left                   | passright.svg        | ![pass right](../JIS/passright.svg)                     |
 | pass left through right                   | passleft.svg         | ![pass left](../JIS/passleft.svg)                       |
-| slip with yarn in back (2 rows high)      |                      |                                                         |
-| slip with yarn in front (2 rows high)     |                      |                                                         |
+| slip with yarn in back (2 rows high)      | slip.svg             | ![slip](../JIS/slip.svg)                                |
+| slip with yarn in front (2 rows high)     | slipwyif.svg         | ![slip with yarn in front](../JIS/slipwyif.svg)         |
 | dip stitch                                |                      |                                                         |
 | twisted dip stitch                        |                      |                                                         |
 | knit through back loop                    |                      |                                                         |

@@ -29,8 +29,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | pass left through right                   | passleft.svg             | ![pass left](../JIS/passleft.svg)                       |
 | slip with yarn in back (2 rows high)      | slip.svg                 | ![slip](../JIS/slip.svg)                                |
 | slip with yarn in front (2 rows high)     | slipwyif.svg             | ![slip with yarn in front](../JIS/slipwyif.svg)         |
-| dip stitch                                |                          |                                                         |
-| twisted dip stitch                        |                          |                                                         |
+| dip stitch                                | dip.svg                  | ![dip](../JIS/dip.svg)                                  |
+| twisted dip stitch                        | diptwist.svg             | ![twisted dip](../JIS/diptwist.svg)                     |
 | knit through back loop                    |                          |                                                         |
 | twisted yarn over                         |                          |                                                         |
 | pass stitch over                          |                          |                                                         |

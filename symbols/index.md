@@ -31,8 +31,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | slip with yarn in front (2 rows high)     | slipwyif.svg             | ![slip with yarn in front](../JIS/slipwyif.svg)         |
 | dip stitch                                | dip.svg                  | ![dip](../JIS/dip.svg)                                  |
 | twisted dip stitch                        | diptwist.svg             | ![twisted dip](../JIS/diptwist.svg)                     |
-| knit through back loop                    |                          |                                                         |
-| twisted yarn over                         |                          |                                                         |
+| twisted stitch (ktbl)                     | twist.svg                | ![twist](../JIS/twist.svg)                              |
+| twisted yarn over                         | twistedyarnover.svg      | ![twisted yarn over](../JIS/twistedyarnover.svg)        |
 | pass stitch over                          |                          |                                                         |
 | no stitch                                 | nostitch.svg             | ![no stitch](../JIS/nostitch.svg)                       |
 

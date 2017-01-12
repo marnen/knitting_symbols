@@ -30,7 +30,7 @@
      inkscape:cx="-1.640411"
      inkscape:cy="11"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text12900"
      showgrid="true"
      units="px"
      inkscape:window-width="1680"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://opensource.org/licenses/MIT" />
       </cc:Work>
@@ -112,17 +112,13 @@
        transform="matrix(-1,0,0,1,9.5000001,-3.8897551e-6)"
        width="100%"
        height="100%" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66666651px;line-height:125%;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4.7134705"
-       y="1048.6909"
-       id="text12900"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12902"
-         x="4.7134705"
-         y="1048.6909"
-         style="-inkscape-font-specification:'Hiragino Maru Gothic Pro';font-family:'Hiragino Maru Gothic Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.1666665px">3</tspan></text>
+       id="text12900">
+      <path
+         d="m 4.6252543,1047.2201 c 0.00833,0 0.016667,0 0.025,0 0.4958333,0 0.7791667,0.2125 0.7791667,0.6083 0,0.3834 -0.3125,0.6167 -0.75,0.6167 -0.4291667,0 -0.6416667,-0.1625 -0.75,-0.4333 -0.0375,-0.083 -0.095833,-0.1209 -0.1708333,-0.1209 -0.025,0 -0.054167,0 -0.083333,0.012 -0.091667,0.025 -0.15,0.088 -0.15,0.1667 0,0.025 0.00417,0.05 0.016667,0.075 0.15,0.3792 0.5,0.6458 1.1291666,0.6458 0.725,0 1.1583333,-0.3791 1.1583333,-0.9291 0,-0.4792 -0.2333333,-0.7667 -0.7166666,-0.8334 0.4125,-0.1 0.6166666,-0.3666 0.6166666,-0.7791 0,-0.5084 -0.4124999,-0.8375 -1.0249999,-0.8375 -0.6458333,0 -0.925,0.3041 -1.05,0.6166 -0.0125,0.025 -0.016667,0.05 -0.016667,0.075 0,0.075 0.054167,0.1292 0.1333333,0.1542 0.029167,0.01 0.0625,0.017 0.095833,0.017 0.066667,0 0.125,-0.029 0.1583333,-0.1042 0.1,-0.2667 0.2916667,-0.4208 0.6625,-0.4208 0.4,0 0.65,0.1958 0.65,0.5291 0,0.3625 -0.2625,0.5834 -0.6833333,0.5834 -0.0125,0 -0.025,0 -0.033333,0 l -0.225,-0.01 c -0.1041667,-0 -0.1583334,0.088 -0.1583334,0.1834 0,0.1 0.054167,0.1916 0.1583334,0.1875 l 0.2291666,-0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.16666651px;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro'"
+         id="path6609" />
+    </g>
   </g>
 </svg>

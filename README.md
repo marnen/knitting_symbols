@@ -11,7 +11,7 @@ The easiest way to use these images is to download a release package from the [r
 
 If the available release packages aren't suitable for you, you can [build your own release package](#building-your-own-release-package). Most people won't need to do this, but if you need it, it's easy to do.
 
-Failing that, you can use the SVG images straight from the code repository, but I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. The image files in the release packages are smaller and have all text converted to paths for reliable display.
+Failing that, you can use the SVG images straight from the code repository, but I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. The image files in the release packages are smaller and have all text converted to paths for reliable display. 
 
 ### Building your own release package
 

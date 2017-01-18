@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+repository: marnen/knitting_symbols
+exclude: &image_output
+  - JIS
+keep_files: *image_output

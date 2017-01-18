@@ -18,7 +18,14 @@ rule(%r{^#{build_path_regex}/.*\.svg$} => [-> (output_file) { output_file.gsub %
   sh *%W[inkscape --without-gui --export-plain-svg=#{File.absolute_path svg.name} --export-text-to-path #{File.absolute_path svg.source}]
 end
 
+desc 'Build HTML documentation'
+task :docs do
+  absolute_build_path = File.absolute_path build_path
+  sh *%W[bundle exec jekyll build --config _config_docs.yml --destination #{absolute_build_path} --baseurl #{absolute_build_path}]
+end
+
+desc 'Build optimized SVG files'
 task optimize_svg: ['setup:path', *source_files.pathmap(File.join build_path, '%p')]
 
-desc 'Build optimized SVG files for release'
-task default: ['setup:default', :optimize_svg]
+desc 'Build all files for release'
+task default: ['setup:default', :optimize_svg, :docs]

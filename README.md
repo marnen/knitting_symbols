@@ -7,15 +7,15 @@ These images are made available under the [MIT License](https://opensource.org/l
 
 ## Getting the images
 
-While you can use the SVG images as they appear in the code repository, I don't advise doing so: the SVG files are optimized for editing, not file size, and some files may contain text in nonstandard fonts. Instead, I recommend using the release versions of the SVG files, which are smaller and have all text converted to paths.
+While you can use the SVG images as they appear in the code repository, I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. Instead, I recommend getting the SVG files from a release package: the release versions of the files are smaller and have all text converted to paths.
 
-The release directory also contains local copies of the HTML documents that list the symbols, so you'll always know what images you have.
+The release package also contains local copies of the HTML documents that list the symbols, so you'll always know what images you have.
 
 ### Downloading release packages
 
 This is the easier option for most people: just download a release from the [releases page](https://github.com/marnen/knitting_symbols/releases), unzip it, and have fun!
 
-### Building your own release files
+### Building your own release package
 
 You'll need [Ruby](http://www.ruby-lang.org) and [Inkscape](http://www.inkscape.org) installed for this. I've only tried building on Mac OS X, but the build process should work on any other Unix-like system. It may need modification to work on Windows; if so, please let me know.
 

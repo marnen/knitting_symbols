@@ -4,6 +4,8 @@ Blank cells indicate symbols that will be included but are not yet. The <span cl
 
 Note: the file naming scheme is perhaps a bit strange, because the files are named in the same format as characters in OpenType fonts. Hopefully this will facilitate the eventual production of a font with these symbols.
 
+<p class='hidden'>If you can't see the images on this page, try http://marnen.github.io/knitting_symbols/symbols.</p>
+
 ## Basic symbols
 
 | Description                               | Filename                 | Image                                                   |

@@ -5,15 +5,13 @@ These images are made available under the [MIT License](https://opensource.org/l
 
 [Current list of symbols](symbols)
 
-## Getting the images
+## Using the images
 
-While you can use the SVG images as they appear in the code repository, I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. Instead, I recommend getting the SVG files from a release package: the release versions of the files are smaller and have all text converted to paths.
+The easiest way to use these images is to download a release package from the [releases page](https://github.com/marnen/knitting_symbols/releases), unzip it, and have fun! The release package also contains local copies of the HTML documents that list the symbols, so you'll always know what images you have.
 
-The release package also contains local copies of the HTML documents that list the symbols, so you'll always know what images you have.
+If the available release packages aren't suitable for you, you can [build your own release package](#building-your-own-release-package). Most people won't need to do this, but if you need it, it's easy to do.
 
-### Downloading release packages
-
-This is the easier option for most people: just download a release from the [releases page](https://github.com/marnen/knitting_symbols/releases), unzip it, and have fun!
+Failing that, you can use the SVG images straight from the code repository, but I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. The image files in the release packages are smaller and have all text converted to paths for reliable display.
 
 ### Building your own release package
 

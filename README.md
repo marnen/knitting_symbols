@@ -3,9 +3,27 @@ SVG images of standard stitch symbols used on knitting charts. The primary goal 
 
 These images are made available under the [MIT License](https://opensource.org/licenses/MIT). Although the terms of the license do not require it, I would be delighted if you credit me (Marnen Laibow-Koser, marnen at marnen dot org) or provide a link to http://www.github.com/marnen/knitting_symbols if you use these images.
 
-[Current list of symbols](https://marnen.github.io/knitting_symbols/symbols)
+[Current list of symbols](symbols)
 
-## Dimensions
+## Getting the images
+
+While you can use the SVG images as they appear in the code repository, I don't advise doing so: the SVG files are optimized for editing, not file size, and some files may contain text in nonstandard fonts. Instead, I recommend using the release versions of the SVG files, which are smaller and have all text converted to paths.
+
+The release directory also contains local copies of the HTML documents that list the symbols, so you'll always know what images you have.
+
+### Downloading release packages
+
+This is the easier option for most people: just download a release from the [releases page](https://github.com/marnen/knitting_symbols/releases), unzip it, and have fun!
+
+### Building your own release files
+
+You'll need [Ruby](http://www.ruby-lang.org) and [Inkscape](http://www.inkscape.org) installed for this. I've only tried building on Mac OS X, but the build process should work on any other Unix-like system. It may need modification to work on Windows; if so, please let me know.
+
+Once you've installed Ruby, install the [Bundler](http://www.bundler.io) gem by typing `gem install bundler` at the command line. Then navigate to the root directory of the project and type `bundle install` to install all the other Ruby gems that are required for this project.
+
+Now you can type `bundle exec rake` to build all the SVG images and HTML documentation into the `build` directory. If you only want to build part of that, you may want to type `bundle exec rake -T` to list the other build tasks that are available.
+
+## Drawing the symbols: Dimensions
 
 Using [one of Pierrot’s patterns](http://www.gosyo.co.jp/img/acrobat/216w/08-1.pdf) as a reference, I found that the stitch boxes have approximately the following dimensions (pixels are set at 90 dpi):
 

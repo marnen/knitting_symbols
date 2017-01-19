@@ -34,7 +34,7 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | dip stitch                                | dip.svg                  | ![dip](../JIS/dip.svg)                                  |
 | twisted dip stitch                        | diptwist.svg             | ![twisted dip](../JIS/diptwist.svg)                     |
 | twisted stitch (ktbl)                     | twist.svg                | ![twist](../JIS/twist.svg)                              |
-| twisted yarn over                         | twistedyarnover.svg      | ![twisted yarn over](../JIS/twistedyarnover.svg)        |
+| twisted yarn over                         | yarnovertwist.svg        | ![twisted yarn over](../JIS/yarnovertwist.svg)          |
 | pass stitch over                          |                          |                                                         |
 | no stitch                                 | nostitch.svg             | ![no stitch](../JIS/nostitch.svg)                       |
 

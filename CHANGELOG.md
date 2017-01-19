@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Add symbols for purl combinations.
+
 ## 0.2.0 - 2017-01-18
 
 - Change twistedyarnover to yarnovertwist for consistency with other filenames.

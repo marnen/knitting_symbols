@@ -4,5 +4,6 @@ keep_files:
   - JIS
 exclude:
   - JIS
+  - 'Gemfile*'
   - 'knitting_symbols*'
   - reference.svg

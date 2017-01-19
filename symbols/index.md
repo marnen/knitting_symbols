@@ -38,6 +38,13 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | pass stitch over                          |                          |                                                         |
 | no stitch                                 | nostitch.svg             | ![no stitch](../JIS/nostitch.svg)                       |
 
+## Combined symbols
+
+| Description            | Filename               | Image                                                    |
+|:-----------------------|:-----------------------|:---------------------------------------------------------|
+| decrease left, purled  | decreaseleft_purl.svg  | ![decrease left, purled](../JIS/decreaseleft_purl.svg)   |
+| decrease right, purled | decreaseright_purl.svg | ![decrease right, purled](../JIS/decreaseright_purl.svg) |
+
 ## Cables
 
 I welcome suggestions on nomenclature!

@@ -1,5 +1,8 @@
 theme: jekyll-theme-architect
 repository: marnen/knitting_symbols
-exclude: &image_output
+keep_files:
   - JIS
-keep_files: *image_output
+exclude:
+  - JIS
+  - 'knitting_symbols*'
+  - reference.svg

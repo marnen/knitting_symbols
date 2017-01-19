@@ -4,6 +4,7 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Change twistedyarnover to yarnovertwist for consistency with other filenames.
 - Make a Rake task for packaging versioned releases.
 
 ## 0.1.1 - 2017-01-18

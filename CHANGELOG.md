@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Exclude some extraneous files from release packaging.
+
 ## 0.1.0 - 2017-01-17
 
 Initial release!

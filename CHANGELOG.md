@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+## 0.3.0 - 2017-01-18
+
 - Add symbols for purl combinations.
 
 ## 0.2.0 - 2017-01-18

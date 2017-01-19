@@ -40,12 +40,15 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 
 ## Combined symbols
 
-| Description            | Filename               | Image                                                    |
-|:-----------------------|:-----------------------|:---------------------------------------------------------|
-| decrease left, purled  | decreaseleft_purl.svg  | ![decrease left, purled](../JIS/decreaseleft_purl.svg)   |
-| decrease right, purled | decreaseright_purl.svg | ![decrease right, purled](../JIS/decreaseright_purl.svg) |
-| dip stitch, purled     | dip_purl.svg           | ![dip stitch, purled](../JIS/dip_purl.svg)               |
-| twisted purl (ptbl)    | twist_purl.svg         | ![twisted purl](../JIS/twist_purl.svg)                   |
+| Description                       | Filename               | Image                                                            |
+|:----------------------------------|:-----------------------|:-----------------------------------------------------------------|
+| decrease left, purled             | decreaseleft_purl.svg  | ![decrease left, purled](../JIS/decreaseleft_purl.svg)           |
+| decrease right, purled            | decreaseright_purl.svg | ![decrease right, purled](../JIS/decreaseright_purl.svg)         |
+| cross right to left, purl in back | crossleft_purl.svg     | ![cross right to left, purl in back](../JIS/crossleft_purl.svg)  |
+| cross left to right, purl in back | crossright_purl.svg    | ![cross left to right, purl in back](../JIS/crossright_purl.svg) |
+| dip stitch, purled                | dip_purl.svg           | ![dip stitch, purled](../JIS/dip_purl.svg)                       |
+| twisted purl (ptbl)               | twist_purl.svg         | ![twisted purl](../JIS/twist_purl.svg)                           |
+
 ## Cables
 
 I welcome suggestions on nomenclature!

@@ -29,3 +29,11 @@ task optimize_svg: ['setup:path', *source_files.pathmap(File.join build_path, '%
 
 desc 'Build all files for release'
 task default: ['setup:default', :optimize_svg, :docs]
+
+desc 'Make a release package with specified version number'
+task :release, [:version] => [:default] do |_, args|
+  raise ArgumentError, 'version number is required' unless args.version
+  release_path = "knitting_symbols-#{args.version}"
+  File.rename build_path, release_path
+  sh *%W[zip #{release_path}.zip -r #{release_path}]
+end

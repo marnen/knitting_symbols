@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Add twist crosses.
+
 ## 0.3.0 - 2017-01-18
 
 - Add symbols for purl combinations.

@@ -19,8 +19,16 @@ namespace :export do
     sh *%W[inkscape --without-gui --export-plain-svg=#{File.absolute_path svg.name} --export-text-to-path #{File.absolute_path svg.source}]
   end
 
+  rule(%r{^#{build_path_regex}/.*\.png$} => [-> (output_file) { output_file.pathmap('%X.svg').gsub %r{^#{build_path_regex}/}, '' }]) do |png|
+    mkdir_p File.dirname(png.name)
+    sh *%W[inkscape --without-gui --export-png=#{File.absolute_path png.name} --export-dpi=90 #{File.absolute_path png.source}]
+  end
+
   desc 'Build optimized SVG files'
   task optimize_svg: ['setup:path', *source_files.pathmap(File.join build_path, '%p')]
+
+  desc 'Export to PNG'
+  task png: ['setup:path', *source_files.pathmap(File.join build_path, '%X.png')]
 
   desc 'Export to all formats'
   task all: :optimize_svg

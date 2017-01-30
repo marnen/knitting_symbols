@@ -1,5 +1,5 @@
 # knitting_symbols
-SVG images of standard stitch symbols used on knitting charts. The primary goal at the moment is to provide SVG images for Japanese kniting symbols, as defined in the JIS L0201 standard and commonly used in Japanese publications. However, I hope to eventually have symbols for other common systems, and contributions are aways welcome!
+SVG and PNG images of standard stitch symbols used on knitting charts. The primary goal at the moment is to provide high-quality images for Japanese kniting symbols, as defined in the JIS L0201 standard and commonly used in Japanese publications. However, I hope to eventually have symbols for other common systems, and contributions are aways welcome!
 
 These images are made available under the [MIT License](https://opensource.org/licenses/MIT). Although the terms of the license do not require it, I would be delighted if you credit me (Marnen Laibow-Koser, marnen at marnen dot org) or provide a link to http://www.github.com/marnen/knitting_symbols if you use these images.
 
@@ -11,7 +11,7 @@ The easiest way to use these images is to download a release package from the [r
 
 If the available release packages aren't suitable for you, you can [build your own release package](#building-your-own-release-package). Most people won't need to do this, but if you need it, it's easy to do.
 
-Failing that, you can use the SVG images straight from the code repository, but I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. The image files in the release packages are smaller and have all text converted to paths for reliable display. 
+Failing that, you can use the SVG images straight from the code repository, but I don't advise doing so: those files are optimized for easy editing, not file size, and some files may contain text in nonstandard fonts, so they may display improperly. The SVG files in the release packages are smaller and have all text converted to paths for reliable display.  (The PNG images aren't contained in the repository at all; rather, they're converted from SVG as part of the build process.)
 
 ### Building your own release package
 

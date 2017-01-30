@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Generate PNG images for releases. [#5]
+
 ## 0.3.1 - 2017-01-29
 
 - Add twist crosses.

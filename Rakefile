@@ -12,10 +12,26 @@ namespace :setup do
   task default: :path
 end
 
-desc 'Optimize SVG file and convert text to paths'
-rule(%r{^#{build_path_regex}/.*\.svg$} => [-> (output_file) { output_file.gsub %r{^#{build_path_regex}/}, '' }]) do |svg|
-  mkdir_p File.dirname(svg.name)
-  sh *%W[inkscape --without-gui --export-plain-svg=#{File.absolute_path svg.name} --export-text-to-path #{File.absolute_path svg.source}]
+namespace :export do
+  desc 'Optimize SVG file and convert text to paths'
+  rule(%r{^#{build_path_regex}/.*\.svg$} => [-> (output_file) { output_file.gsub %r{^#{build_path_regex}/}, '' }]) do |svg|
+    mkdir_p File.dirname(svg.name)
+    export svg, format: :svg
+  end
+
+  rule(%r{^#{build_path_regex}/.*\.png$} => [-> (output_file) { output_file.pathmap('%X.svg').gsub %r{^#{build_path_regex}/}, '' }]) do |png|
+    mkdir_p File.dirname(png.name)
+    export png, format: :png
+  end
+
+  desc 'Build optimized SVG files'
+  task optimized_svg: ['setup:path', *source_files.pathmap(File.join build_path, '%p')]
+
+  desc 'Export to PNG'
+  task png: ['setup:path', *source_files.pathmap(File.join build_path, '%X.png')]
+
+  desc 'Export to all formats'
+  task all: [:optimized_svg, :png]
 end
 
 desc 'Build HTML documentation'
@@ -24,11 +40,8 @@ task :docs do
   sh *%W[bundle exec jekyll build --config _config_docs.yml --destination #{absolute_build_path} --baseurl #{absolute_build_path}]
 end
 
-desc 'Build optimized SVG files'
-task optimize_svg: ['setup:path', *source_files.pathmap(File.join build_path, '%p')]
-
 desc 'Build all files for release'
-task default: ['setup:default', :optimize_svg, :docs]
+task default: ['setup:default', 'export:all', :docs]
 
 desc 'Make a release package with specified version number'
 task :release, [:version] => [:default] do |_, args|
@@ -36,4 +49,28 @@ task :release, [:version] => [:default] do |_, args|
   release_path = "knitting_symbols-#{args.version}"
   File.rename build_path, release_path
   sh *%W[zip #{release_path}.zip -r #{release_path}]
+end
+
+private
+
+def export(target, format:)
+  source_path = File.absolute_path target.source
+  export_path = File.absolute_path target.name
+
+  options = case format.to_s
+  when 'svg'
+    [
+      "--export-plain-svg=#{export_path}",
+      '--export-text-to-path'
+    ]
+  when 'png'
+    [
+      "--export-png=#{export_path}",
+      '--export-dpi=90'
+    ]
+  else
+    raise ArgumentError, "Don't know how to build format #{format}. I only understand 'svg' and 'png'."
+  end
+
+  sh 'inkscape', '--without-gui', source_path, *options
 end

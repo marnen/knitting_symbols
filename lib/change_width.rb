@@ -2,7 +2,9 @@
 require 'bigdecimal'
 require 'nokogiri'
 
-NEW_WIDTH = 29
+OLD_UNIT_WIDTH = BigDecimal.new '28.5'
+NEW_UNIT_WIDTH = BigDecimal.new 29
+UNIT_DIFF = NEW_UNIT_WIDTH - OLD_UNIT_WIDTH
 PRECISION = 8
 VIEW_FACTOR = 3
 
@@ -37,17 +39,20 @@ end
 string = $stdin.read
 svg = Nokogiri::XML string
 root = svg.at_css 'svg'
-root['width'] = NEW_WIDTH
+units = (BigDecimal.new(root['width']) / OLD_UNIT_WIDTH).round
+root['width'] = NEW_UNIT_WIDTH * units
 root['viewBox'] = view_box(root)
 
-move_grid! svg.at_css('inkscape|grid'), x: 0.25
+move_x = (UNIT_DIFF * units) / 2
+
+move_grid! svg.at_css('inkscape|grid'), x: move_x
 vertical_guides = svg.css 'sodipodi|guide[orientation="1,0"]'
 vertical_guides.each do |guide|
-  move_guide! guide, x: 0.25
+  move_guide! guide, x: move_x
 end
 
 gs = svg.css 'g'
 gs.each do |g|
-  move_g! g, x: 0.25
+  move_g! g, x: move_x
 end
 puts svg

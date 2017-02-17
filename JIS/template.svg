@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28.5"
+   width="29"
    height="22"
-   viewBox="0 0 9.5000001 7.3333331"
+   viewBox="0 0 9.6666668 7.3333331"
    id="svg18165"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="89.6"
-     inkscape:cx="6.0423749"
-     inkscape:cy="3.4123118"
+     inkscape:zoom="31.678384"
+     inkscape:cx="13.618519"
+     inkscape:cy="10.988456"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1680"
-     inkscape:window-height="985"
+     inkscape:window-height="986"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -47,24 +47,30 @@
        empspacing="6"
        color="#0000ff"
        opacity="0.0627451"
-       originy="0.16667"
-       originx="4.7500001" />
+       originy="0.16666666"
+       originx="4.8333334" />
     <sodipodi:guide
-       position="4.7500001,7.8333368"
+       position="4.8333335,7.8333368"
        orientation="1,0"
-       id="guide18233" />
+       id="guide18233"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="-0.91666668,3.6666701"
        orientation="0,1"
        id="guide18235" />
     <sodipodi:guide
-       position="1.75,7.8333368"
+       position="1.8333333,7.8333368"
        orientation="1,0"
-       id="guide18237" />
+       id="guide18237"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="7.7500002,7.8333368"
+       position="7.8333336,7.8333368"
        orientation="1,0"
-       id="guide18241" />
+       id="guide18241"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="-0.75000001,6.6666701"
        orientation="0,1"

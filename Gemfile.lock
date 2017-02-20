@@ -197,7 +197,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  nokogiri
   os
   rake
 

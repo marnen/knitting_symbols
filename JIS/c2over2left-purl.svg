@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="114"
+   width="0.116E3"
    height="22"
-   viewBox="0 0 38.000003 7.333333"
+   viewBox="0 0 38.666666666666666667 7.333333333333333333"
    id="svg18165"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2over2left-purl.svg">
+   sodipodi:docname="c2over2left-purl.svg">
   <defs
      id="defs18167" />
   <sodipodi:namedview
@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.701754"
-     inkscape:cx="31.32301"
-     inkscape:cy="0.85995414"
+     inkscape:zoom="19.377206"
+     inkscape:cx="27.720087"
+     inkscape:cy="13.24564"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1680"
-     inkscape:window-height="985"
+     inkscape:window-height="986"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -50,7 +50,7 @@
        color="#0000ff"
        opacity="0.0627451"
        originy="0.16666666"
-       originx="5.0000003" />
+       originx="5.333333633333333333" />
     <sodipodi:guide
        position="-0.91666668,3.6666701"
        orientation="0,1"
@@ -64,27 +64,27 @@
        orientation="0,1"
        id="guide18245" />
     <sodipodi:guide
-       position="9.5000005,7.8333368"
+       position="9.6666667,7.8333368"
        orientation="1,0"
        id="guide9645"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1.5000002,7.8333335"
+       position="1.833333533333333333,7.8333335"
        orientation="1,0"
        id="guide10411" />
     <sodipodi:guide
-       position="28.500001,7.8333335"
+       position="29,7.8333335"
        orientation="1,0"
        id="guide10413"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="19.000001,7.8333335"
+       position="19.333334333333333333,7.8333335"
        orientation="1,0"
        id="guide11680" />
     <sodipodi:guide
-       position="36.500001,7.8333335"
+       position="36.833334333333333333,7.8333335"
        orientation="1,0"
        id="guide4371" />
   </sodipodi:namedview>
@@ -96,10 +96,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://opensource.org/licenses/MIT" />
-        <dc:description></dc:description>
+        <dc:description />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,10 +107,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1045.0288)">
+     transform="translate(0,-1045.0288) translate(0.333333333333333333,0.0)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 9.500001,1045.0288 0,7.3333"
+       d="m 9.3333343,1045.0288 0,7.3333"
        id="path9827"
        inkscape:connector-curvature="0" />
     <use
@@ -118,7 +118,7 @@
        y="0"
        xlink:href="#path9827"
        id="use11678"
-       transform="translate(9.5000005,0)"
+       transform="translate(9.6666672,0)"
        width="100%"
        height="100%" />
     <use
@@ -126,7 +126,7 @@
        y="0"
        xlink:href="#use11678"
        id="use4369"
-       transform="translate(9.5000008,0)"
+       transform="translate(9.6666675,0)"
        width="100%"
        height="100%" />
     <path
@@ -159,7 +159,7 @@
        height="100%" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14.823257,1050.1919 -5.15659,1.3369"
+       d="m 14.65659,1050.1919 -5.1565897,1.3369"
        id="path4961"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -181,7 +181,7 @@
        y="0"
        xlink:href="#path5031"
        id="use5033"
-       transform="translate(8.0000017,3.5281914e-7)"
+       transform="translate(7.833335,3.5281914e-7)"
        width="100%"
        height="100%" />
   </g>

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="57"
+   width="0.58E2"
    height="22"
-   viewBox="0 0 19.000001 7.333333"
+   viewBox="0 0 19.333333333333333333 7.333333333333333333"
    id="svg18165"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20"
-     inkscape:cx="28.475"
+     inkscape:zoom="14.142136"
+     inkscape:cx="28.7"
      inkscape:cy="7"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +50,7 @@
        color="#0000ff"
        opacity="0.0627451"
        originy="0.16666666"
-       originx="5.0000003" />
+       originx="5.166666966666666666666666667" />
     <sodipodi:guide
        position="-0.91666668,3.6666701"
        orientation="0,1"
@@ -64,19 +64,23 @@
        orientation="0,1"
        id="guide18245" />
     <sodipodi:guide
-       position="9.5000005,7.8333368"
+       position="9.666667166666666666666666667,7.8333368"
        orientation="1,0"
        id="guide9645"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1.5000002,7.8333335"
+       position="1.8333333,7.8333335"
        orientation="1,0"
-       id="guide10411" />
+       id="guide10411"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="17.500001,7.8333335"
+       position="17.5,7.8333335"
        orientation="1,0"
-       id="guide10413" />
+       id="guide10413"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata18170">
@@ -97,33 +101,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1045.0288)">
+     transform="translate(0,-1045.0288) translate(0.166666666666666666666666667,0.0)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.16666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 9.4725209,1045.0288 0,7.3333"
+       d="m 9.500001,1045.0288 0,7.3333"
        id="path9827"
        inkscape:connector-curvature="0" />
     <g
        id="g4448"
-       transform="matrix(-1,0,0,1,18.972522,0)">
+       transform="translate(0.166666666666666666666666667,0.0)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path13484"
-         d="m 1.666666,1051.5288 4.3333343,-1.5648"
+         d="m 16.999971,1051.5288 -4.333334,-1.5648"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 17.333335,1045.8621 -5.538606,2"
+         d="m 1.6666359,1045.8621 5.205272,2"
          id="use13486"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
     <g
        id="g4413"
-       transform="matrix(-0.93969262,0.34202014,0.34202014,0.93969262,-339.47975,61.587154)">
+       transform="matrix(-0.93969262,0.34202014,0.34202014,0.93969262,-339.60892,61.644157)">
       <g
-         id="g4444">
+         id="g4444"
+         transform="translate(0.16666667,0)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 13.947998,1048.6407 c -0.126498,-0.5047 -0.566938,-1.2768 -1.479387,-1.6934 -0.544247,-0.247 -1.47265,-0.7411 -2.7914209,-1.0341 -0.8385222,-0.1884 -1.8048135,-0.3884 -3.1266124,-0.3884 -2.2486395,0 -5.1704999,0.3696 -5.177578,1.4257"

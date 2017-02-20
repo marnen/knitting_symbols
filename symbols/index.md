@@ -64,7 +64,9 @@ I welcome suggestions on nomenclature!
 | twistright        | ![twist left to right](../JIS/twistright.svg)                    |
 | twistleft_purl    | ![twist right to left, purl in back](../JIS/twistleft_purl.svg)  |
 | twistright_purl   | ![twist left to right, purl in back](../JIS/twistright_purl.svg) |
+| c2over1left       | ![2 over 1 left](../JIS/c2over1left.svg)                         |
 | c2over1left-purl  | ![2 over 1 left, purl](../JIS/c2over1left-purl.svg)              |
+| c2over1right      | ![2 over 1 right](../JIS/c2over1right.svg)                       |
 | c2over1right-purl | ![2 over 1 right, purl](../JIS/c2over1right-purl.svg)            |
 | c2over2left       | ![2 over 2 left](../JIS/c2over2left.svg)                         |
 | c2over2left-purl  | ![2 over 2 left, purl](../JIS/c2over2left-purl.svg)              |

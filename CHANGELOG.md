@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+## 0.5.0 - 2017-02-19
+
 - Change image width from 28.5 px to 29 px. [#6]
 
 ## 0.4.0 - 2017-01-29

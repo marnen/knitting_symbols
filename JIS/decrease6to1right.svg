@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.29E2"
+   height="22"
+   viewBox="0 0 9.666666666666666667 7.333333333333333333"
+   id="svg18165"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="decrease6to1right.svg">
+  <defs
+     id="defs18167" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.129944"
+     inkscape:cx="14.5"
+     inkscape:cy="17.064454"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid18173"
+       spacingx="0.16666667"
+       spacingy="0.16666667"
+       empspacing="6"
+       color="#0000ff"
+       opacity="0.0627451"
+       originy="0.16667"
+       originx="4.833333433333333333333333333" />
+    <sodipodi:guide
+       position="4.833333433333333333333333333,7.8333368"
+       orientation="1,0"
+       id="guide18233"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.91666668,3.6666701"
+       orientation="0,1"
+       id="guide18235"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.833333333333333333333333333,7.8333368"
+       orientation="1,0"
+       id="guide18237"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.833333533333333333333333333,7.8333368"
+       orientation="1,0"
+       id="guide18241"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.75000001,6.6666701"
+       orientation="0,1"
+       id="guide18243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.75000001,0.66667001"
+       orientation="0,1"
+       id="guide18245"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata18170">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="https://opensource.org/licenses/MIT" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1045.0288) translate(0.083333333333333333333333333,0.0)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.59999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.7500002,1049.0478 -3,-2.3523"
+       id="path12356"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="1.5"
+       inkscape:transform-center-y="-1.17615" />
+    <path
+       inkscape:transform-center-y="-1.67615"
+       inkscape:transform-center-x="-2.1376971"
+       inkscape:connector-curvature="0"
+       id="use12898"
+       d="m 1.75,1049.0478 4.2753945,-3.3523"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.59999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.16666651px;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro'"
+       x="3.3747454"
+       y="1051.7321"
+       id="text846"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="3.3747454"
+         y="1051.7321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.16666651px;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro'">6</tspan></text>
+  </g>
+</svg>

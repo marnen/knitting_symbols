@@ -24,6 +24,8 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | 3 to 1 (double decrease), centered (skpo)     | decrease3to1centered | ![3 to 1 centered](../JIS/decrease3to1centered.svg)     |
 | 3 to 1 left                                   | decrease3to1left     | ![3 to 1 left](../JIS/decrease3to1left.svg)             |
 | 3 to 1 right                                  | decrease3to1right    | ![3 to 1 right](../JIS/decrease3to1right.svg)           |
+| 4 to 1 left                                   | decrease4to1left     | ![4 to 1 left](../JIS/decrease4to1left.svg)             |
+| 4 to 1 right                                  | decrease4to1right    | ![4 to 1 right](../JIS/decrease4to1right.svg)           |
 | slant left                                    | slantleft            | ![slant left](../JIS/slantleft.svg)                     |
 | slant right                                   | slantright           | ![slant right](../JIS/slantright.svg)                   |
 | increase right                                | increaseright        | ![increase right](../JIS/increaseright.svg)             |

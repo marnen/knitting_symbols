@@ -29,6 +29,7 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | 5 to 1                                        | decrease5to1centered | ![5 to 1 centered](../JIS/decrease5to1centered.svg)     |
 | 5 to 1 left                                   | decrease5to1left     | ![5 to 1 left](../JIS/decrease5to1left.svg)             |
 | 5 to 1 right                                  | decrease5to1right    | ![5 to 1 right](../JIS/decrease5to1right.svg)           |
+| 7 to 1                                        | decrease7to1         | ![7 to 1](../JIS/decrease7to1.svg)                      |
 | slant left                                    | slantleft            | ![slant left](../JIS/slantleft.svg)                     |
 | slant right                                   | slantright           | ![slant right](../JIS/slantright.svg)                   |
 | increase right                                | increaseright        | ![increase right](../JIS/increaseright.svg)             |

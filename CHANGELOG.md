@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+## 0.7.1 - 2019-05-14
+
 - Update some gems (nokogiri, ffi, jekyll, github-pages) to deal with security alerts. No user-facing changes.
 
 ## 0.7.0 - 2019-05-14

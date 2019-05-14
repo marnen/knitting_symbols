@@ -15,7 +15,7 @@
    viewBox="0 0 19.333333333333333333 7.333333333333333333"
    id="svg18165"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="crossleft.svg">
   <defs
      id="defs18167" />
@@ -34,9 +34,9 @@
      showgrid="true"
      units="px"
      inkscape:window-width="1680"
-     inkscape:window-height="986"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -54,33 +54,39 @@
     <sodipodi:guide
        position="-0.91666668,3.6666701"
        orientation="0,1"
-       id="guide18235" />
+       id="guide18235"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-0.75000001,6.6666701"
        orientation="0,1"
-       id="guide18243" />
+       id="guide18243"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-0.75000001,0.66667001"
        orientation="0,1"
-       id="guide18245" />
+       id="guide18245"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="9.666667166666666666666666667,7.8333368"
        orientation="1,0"
        id="guide9645"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1.8333333,7.8333335"
        orientation="1,0"
        id="guide10411"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="17.5,7.8333335"
        orientation="1,0"
        id="guide10413"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata18170">

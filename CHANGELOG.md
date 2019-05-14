@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+## 0.7.0 - 2019-05-14
+
 - Add more lace symbols (big decreases and bind off).
 
 ## 0.6.1 - 2019-05-14

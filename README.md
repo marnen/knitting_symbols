@@ -49,3 +49,5 @@ Multiplying all those dimensions by 6 to remove fractions, we get the following.
 The JIS symbols in this collection will be designed to something like these (very approximate) dimensions. In particular, for ease of manipulation, the margin guides in JIS/template.svg actually outline an area that’s 36 units square, not 33. However, these guides should not be taken too strictly; the Japanese symbols are quite variable in size.
 
 Also, if we were to make our symbols the same size as the ones in the printed reference pattern, then their default rendering in HTML would be far too small. So we are drawing our symbols at triple size (29 by 22 pixels) for ease of Web rendering; of course, it is easy enough to scale them to other sizes as desired.
+
+**N.B.!** The 90 dpi figure was used for historical reasons, but SVG 2, Inkscape, and all browser implementations [now assume 96 dpi, not 90](https://inkscape.org/learn/faq/#dpi_change). We are keeping the pixels the same, which won't affect screen display, but if you're using these for print, be aware that you may have to scale by 16/15 (108.3333%) to maintain the size of the original reference pattern.

@@ -51,6 +51,7 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 | twisted stitch (variant with straighter ends) | twist.straight       | ![twist with straight ends](../JIS/twist.straight.svg)  |
 | twisted yarn over                             | yarnovertwist        | ![twisted yarn over](../JIS/yarnovertwist.svg)          |
 | pass stitch over                              |                      |                                                         |
+| bind off                                      | bindoff              | ![bind off](../JIS/bindoff.svg)                         |
 | no stitch                                     | nostitch             | ![no stitch](../JIS/nostitch.svg)                       |
 
 ## Combined symbols

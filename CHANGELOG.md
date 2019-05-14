@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Keep pixel the same for new 96 DPI standard even though it means images become slightly smaller in print. Document this in README.
+
 ## 0.5.0 - 2017-02-19
 
 - Change image width from 28.5 px to 29 px. [#6]

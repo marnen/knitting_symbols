@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Export PNG files at 96 DPI so we can still do pixel for pixel.
+
 ## 0.6.0 - 2019-05-14
 
 - Keep pixel the same for new 96 DPI standard even though it means images become slightly smaller in print. Document this in README.

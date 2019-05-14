@@ -66,7 +66,7 @@ def export(target, format:)
   when 'png'
     [
       "--export-png=#{export_path}",
-      '--export-dpi=90'
+      '--export-dpi=96'
     ]
   else
     raise ArgumentError, "Don't know how to build format #{format}. I only understand 'svg' and 'png'."

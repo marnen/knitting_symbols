@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+## 0.7.2 - 2019-05-14
+
 - Reorganize stitch descriptions in symbol list.
 
 ## 0.7.1 - 2019-05-14

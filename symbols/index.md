@@ -12,47 +12,54 @@ Note: the file naming scheme is perhaps a bit strange, because the files are nam
 
 ## Basic symbols
 
-| Description                                   | Filename             | Image                                                   |
-|:----------------------------------------------|:---------------------|:--------------------------------------------------------|
-| knit                                          | knit                 | ![knit](../JIS/knit.svg)                                |
-| purl                                          | purl                 | ![purl](../JIS/purl.svg)                                |
-| yarn over                                     | yarnover             | ![yarn over](../JIS/yarnover.svg)                       |
-| decrease left (ssk)                           | decreaseleft         | ![decrease left](../JIS/decreaseleft.svg)               |
-| decrease left, 2 cells                        | decreaseleft.2w      | ![decrease left, 2 cells](../JIS/decreaseleft.2w.svg)   |
-| decrease right (k2tog)                        | decreaseright        | ![decrease right](../JIS/decreaseright.svg)             |
-| decrease right, 2 cells                       | decreaseright.2w     | ![decrease right, 2 cells](../JIS/decreaseright.2w.svg) |
-| 3 to 1 (double decrease), centered (skpo)     | decrease3to1centered | ![3 to 1 centered](../JIS/decrease3to1centered.svg)     |
-| 3 to 1 left                                   | decrease3to1left     | ![3 to 1 left](../JIS/decrease3to1left.svg)             |
-| 3 to 1 right                                  | decrease3to1right    | ![3 to 1 right](../JIS/decrease3to1right.svg)           |
-| 4 to 1 left                                   | decrease4to1left     | ![4 to 1 left](../JIS/decrease4to1left.svg)             |
-| 4 to 1 right                                  | decrease4to1right    | ![4 to 1 right](../JIS/decrease4to1right.svg)           |
-| 5 to 1                                        | decrease5to1centered | ![5 to 1 centered](../JIS/decrease5to1centered.svg)     |
-| 5 to 1 left                                   | decrease5to1left     | ![5 to 1 left](../JIS/decrease5to1left.svg)             |
-| 5 to 1 right                                  | decrease5to1right    | ![5 to 1 right](../JIS/decrease5to1right.svg)           |
-| 6 to 1 left                                   | decrease6to1left     | ![6 to 1](../JIS/decrease6to1left.svg)                  |
-| 6 to 1 right                                  | decrease6to1right    | ![6 to 1](../JIS/decrease6to1right.svg)                 |
-| 7 to 1                                        | decrease7to1         | ![7 to 1](../JIS/decrease7to1.svg)                      |
-| 7 to 1 left                                   | decrease7to1left     | ![7 to 1](../JIS/decrease7to1left.svg)                  |
-| 7 to 1 right                                  | decrease7to1right    | ![7 to 1](../JIS/decrease7to1right.svg)                 |
-| slant left                                    | slantleft            | ![slant left](../JIS/slantleft.svg)                     |
-| slant right                                   | slantright           | ![slant right](../JIS/slantright.svg)                   |
-| increase right                                | increaseright        | ![increase right](../JIS/increaseright.svg)             |
-| increase left                                 | increaseleft         | ![increase left](../JIS/increaseleft.svg)               |
-| increase 1 to 3                               | increase1to3         | ![1 to 3](../JIS/increase1to3.svg)                      |
-| cross right to left                           | crossleft            | ![cross left](../JIS/crossleft.svg)                     |
-| cross left to right                           | crossright           | ![cross right](../JIS/crossright.svg)                   |
-| pass right through left                       | passright            | ![pass right](../JIS/passright.svg)                     |
-| pass left through right                       | passleft             | ![pass left](../JIS/passleft.svg)                       |
-| slip with yarn in back (2 rows high)          | slip                 | ![slip](../JIS/slip.svg)                                |
-| slip with yarn in front (2 rows high)         | slipwyif             | ![slip with yarn in front](../JIS/slipwyif.svg)         |
-| dip stitch                                    | dip                  | ![dip](../JIS/dip.svg)                                  |
-| twisted dip stitch                            | diptwist             | ![twisted dip](../JIS/diptwist.svg)                     |
-| twisted stitch (ktbl)                         | twist                | ![twist](../JIS/twist.svg)                              |
-| twisted stitch (variant with straighter ends) | twist.straight       | ![twist with straight ends](../JIS/twist.straight.svg)  |
-| twisted yarn over                             | yarnovertwist        | ![twisted yarn over](../JIS/yarnovertwist.svg)          |
-| pass stitch over                              |                      |                                                         |
-| bind off                                      | bindoff              | ![bind off](../JIS/bindoff.svg)                         |
-| no stitch                                     | nostitch             | ![no stitch](../JIS/nostitch.svg)                       |
+| Description                                     | Filename               | Image                                                     |
+|:------------------------------------------------|:-----------------------|:----------------------------------------------------------|
+| knit                                            | knit                   | ![knit](../JIS/knit.svg)                                  |
+| purl                                            | purl                   | ![purl](../JIS/purl.svg)                                  |
+| yarn over                                       | yarnover               | ![yarn over](../JIS/yarnover.svg)                         |
+| slant left                                      | slantleft              | ![slant left](../JIS/slantleft.svg)                       |
+| slant right                                     | slantright             | ![slant right](../JIS/slantright.svg)                     |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| decrease left (ssk)                             | decreaseleft           | ![decrease left](../JIS/decreaseleft.svg)                 |
+| decrease left, 2 cells                          | decreaseleft.2w        | ![decrease left, 2 cells](../JIS/decreaseleft.2w.svg)     |
+| decrease right (k2tog)                          | decreaseright          | ![decrease right](../JIS/decreaseright.svg)               |
+| decrease right, 2 cells                         | decreaseright.2w       | ![decrease right, 2 cells](../JIS/decreaseright.2w.svg)   |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| 3 to 1 (double decrease), centered (skpo)       | decrease3to1centered   | ![3 to 1 centered](../JIS/decrease3to1centered.svg)       |
+| 3 to 1 left                                     | decrease3to1left       | ![3 to 1 left](../JIS/decrease3to1left.svg)               |
+| 3 to 1 right                                    | decrease3to1right      | ![3 to 1 right](../JIS/decrease3to1right.svg)             |
+| 4 to 1 left                                     | decrease4to1left       | ![4 to 1 left](../JIS/decrease4to1left.svg)               |
+| 4 to 1 right                                    | decrease4to1right      | ![4 to 1 right](../JIS/decrease4to1right.svg)             |
+| 5 to 1                                          | decrease5to1centered   | ![5 to 1 centered](../JIS/decrease5to1centered.svg)       |
+| 5 to 1 left                                     | decrease5to1left       | ![5 to 1 left](../JIS/decrease5to1left.svg)               |
+| 5 to 1 right                                    | decrease5to1right      | ![5 to 1 right](../JIS/decrease5to1right.svg)             |
+| 6 to 1 left                                     | decrease6to1left       | ![6 to 1](../JIS/decrease6to1left.svg)                    |
+| 6 to 1 right                                    | decrease6to1right      | ![6 to 1](../JIS/decrease6to1right.svg)                   |
+| 7 to 1                                          | decrease7to1           | ![7 to 1](../JIS/decrease7to1.svg)                        |
+| 7 to 1 left                                     | decrease7to1left       | ![7 to 1](../JIS/decrease7to1left.svg)                    |
+| 7 to 1 right                                    | decrease7to1right      | ![7 to 1](../JIS/decrease7to1right.svg)                   |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| increase right                                  | increaseright          | ![increase right](../JIS/increaseright.svg)               |
+| increase left                                   | increaseleft           | ![increase left](../JIS/increaseleft.svg)                 |
+| increase 1 to 3                                 | increase1to3           | ![1 to 3](../JIS/increase1to3.svg)                        |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| cross right to left                             | crossleft              | ![cross left](../JIS/crossleft.svg)                       |
+| cross left to right                             | crossright             | ![cross right](../JIS/crossright.svg)                     |
+| pass right through left                         | passright              | ![pass right](../JIS/passright.svg)                       |
+| pass left through right                         | passleft               | ![pass left](../JIS/passleft.svg)                         |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| slip with yarn in back (2 rows high)            | slip                   | ![slip](../JIS/slip.svg)                                  |
+| slip with yarn in front (2 rows high)           | slipwyif               | ![slip with yarn in front](../JIS/slipwyif.svg)           |
+| dip stitch                                      | dip                    | ![dip](../JIS/dip.svg)                                    |
+| twisted dip stitch                              | diptwist               | ![twisted dip](../JIS/diptwist.svg)                       |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| twisted stitch (ktbl)                           | twist                  | ![twist](../JIS/twist.svg)                                |
+| twisted stitch (variant with straighter ends)   | twist.straight         | ![twist with straight ends](../JIS/twist.straight.svg)    |
+| twisted yarn over                               | yarnovertwist          | ![twisted yarn over](../JIS/yarnovertwist.svg)            |
+| pass stitch over                                |                        |                                                           |
+| :---------------------------------------------- | :--------------------- | :-------------------------------------------------------- |
+| bind off                                        | bindoff                | ![bind off](../JIS/bindoff.svg)                           |
+| no stitch                                       | nostitch               | ![no stitch](../JIS/nostitch.svg)                         |
 
 ## Combined symbols
 

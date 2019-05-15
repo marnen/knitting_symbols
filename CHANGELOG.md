@@ -4,6 +4,8 @@ All significant changes to this project should be documented here, as recommende
 
 ## Unreleased
 
+- Reorganize stitch descriptions in symbol list.
+
 ## 0.7.1 - 2019-05-14
 
 - Update some gems (nokogiri, ffi, jekyll, github-pages) to deal with security alerts. No user-facing changes.
